@@ -1,0 +1,38 @@
+﻿Summary – Customer Churn EDA
+Objective
+The objective of this analysis was to identify key factors driving customer churn by examining demographic, tenure, and service-usage patterns using visual analytics.
+________________
+
+
+Key Findings from Visual Analysis
+1. Churn is concentrated among early-tenure customers
+ Customers with low tenure show significantly higher churn, while long-term customers demonstrate strong retention.
+➤ Early customer experience is critical to reducing churn.
+
+2. Service quality and support features strongly influence churn
+ Customers without OnlineSecurity, TechSupport, OnlineBackup, and DeviceProtection churn at much higher rates.
+➤ Support and security add-ons act as major retention drivers.
+
+3. Fiber Optic internet customers churn more than DSL users
+ Despite being a premium service, Fiber Optic shows higher churn levels.
+➤ This suggests pricing sensitivity or unmet service expectations.
+
+4. Streaming services do not reduce churn significantly
+ StreamingTV and StreamingMovies show nearly equal churn across usage categories.
+➤ Entertainment add-ons alone are insufficient for retention.
+
+5. Demographics have limited predictive power
+
+   * Gender has no noticeable impact on churn
+
+   * Senior citizens exhibit relatively higher churn
+➤ Behavioral and service-related factors outweigh demographic ones.
+
+      6. Phone services have minimal impact on churn behavior
+ Most customers have PhoneService, and churn differences are negligible.
+➤ Basic services do not differentiate retention.
+      7. Payments Method: A significant proportion of customer using electronic checks are more likely to churn compared to those using other payment methods(credit cards, banks transfer, etc). This could be due to convenience or trust issues associated with electronic check payments.
+
+
+Final Insight
+Improving early customer experience and promoting support-related services will have the greatest impact on reducing churn.
